@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Pokemon Directory
+
+This is a pokemon directory listing and giving you info about various Pokemon
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
